@@ -8,7 +8,9 @@ Puesto según performance:
 
 ![imagen](https://user-images.githubusercontent.com/64380067/134542807-82dc9b15-d3ce-4be1-9643-c3274eb00c95.png)
 
+# Instalar sympy y primecount 
 -Para instalar primecount las instrucciones las encontras en: https://github.com/kimwalisch/primecount && https://github.com/hearot/primecount-python
 -Para instalar sympy solo haces un pip install sympy
-Conclusiones:
+
+# Conclusiones
 Hay una diferencia brutal con primecount por su complejidad O y el hecho de que está escrito en C, Beimar simplemente no tiene chances
