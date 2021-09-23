@@ -1,6 +1,6 @@
 # Comparación de algoritmos para encontrar pi(x)
 Comparación de tiempo de ejecución para pi(x) con diferentes algoritmos
-Puesto según performance:
+Puesto según performance:  
 1.-Primecount (O(x^(2/3) / log(x)^2) https://github.com/kimwalisch/primecount/blob/acbb19b203e92fda615732bb6ce5e3ecde22febe/doc/primecount.txt  
 2.-Sympy (O complexity desconocido)  
 3.-Algoritmo de Beimargod(Beimar Wilfredo Lopez Subia) (O(x*sqrt(x))  
